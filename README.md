@@ -11,7 +11,7 @@ Podremos conocer diferentes tipo de formatos de textos usando ~~Markdown~~
 
 ## Colocar imagenes
 
-[Imagen principal][mascota.jpg]
+![Imagen principal](mascota.jpg)
 
 ## Funciones
 - [X] Registrar Alumno
